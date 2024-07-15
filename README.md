@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Alex!
 
-### A TypeScript Fullstack Developer based in Berlin.
+### A TypeScript Fullstack Developer.
 
 - 👯 I’m looking to collaborate on projects as helpful for as many people as possible!
 
