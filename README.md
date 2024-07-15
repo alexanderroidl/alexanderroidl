@@ -1,13 +1,20 @@
 ![alexanderroidl](https://komarev.com/ghpvc/?username=alexanderroidl&label=Profile%20views&color=0e75b6&style=flat)
 
-## Hi 👋, I'm Alex!
+# Hi 👋, I'm Alex!
 
 ### A TypeScript Fullstack Developer.
 
 - 👯 I’m looking to collaborate on projects as helpful for as many people as possible!
 
+#### Collaborated on:
+- [gremo/nest-winston](https://github.com/gremo/nest-winston)
+- [GrapeoffJS/kindagoose](https://github.com/GrapeoffJS/kindagoose)
+- [grantholle/moviedb-promise](https://github.com/grantholle/moviedb-promise)
+- [2captcha/2captcha-javascript](https://github.com/2captcha/2captcha-javascript)
+- [flathunters/flathunter](https://github.com/flathunters/flathunter)
+- [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
 
-<h3 align="left">Languages and Tools:</h3>
+#### Languages and Tools:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
