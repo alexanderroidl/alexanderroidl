@@ -8,7 +8,7 @@
 
 #### Collaborated on:
 - [gremo/nest-winston](https://github.com/gremo/nest-winston)
-- [GrapeoffJS/kindagoose](https://github.com/GrapeoffJS/kindagoose)
+- [findingtheconcept/kindagoose](https://github.com/findingtheconcept/kindagoose)
 - [grantholle/moviedb-promise](https://github.com/grantholle/moviedb-promise)
 - [2captcha/2captcha-javascript](https://github.com/2captcha/2captcha-javascript)
 - [flathunters/flathunter](https://github.com/flathunters/flathunter)
