@@ -12,6 +12,7 @@
 - [grantholle/moviedb-promise](https://github.com/grantholle/moviedb-promise)
 - [2captcha/2captcha-javascript](https://github.com/2captcha/2captcha-javascript)
 - [flathunters/flathunter](https://github.com/flathunters/flathunter)
+- [orangecoding/fredy](https://github.com/orangecoding/fredy)
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
 
 #### Languages and Tools:
